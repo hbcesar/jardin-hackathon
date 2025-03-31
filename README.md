@@ -8,4 +8,6 @@ For documentation, please refer to the shared docs:
  - [Challenge #2](https://docs.google.com/document/d/13ee2QSnHU83b6F3yT8zuqwTZZQhERGdiR-ObpyAzZGc/edit?usp=sharing)
  - [Challenge #3](https://docs.google.com/document/d/1v3fOXj4rLwoxxjR0bmdN3cl6QZB-VIJ5pszXjB3ssWM/edit?usp=sharing)
 
+ A general "cloud drive" folder is available at [this link](https://surfdrive.surf.nl/files/index.php/s/AK4QD3dcWKWcMEr).
+
 Have fun!
