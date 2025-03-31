@@ -1,0 +1,16 @@
+Patient ID,Diagnosis,Age,Genotype,Hospital
+PID1000,Undiagnosed,50,GG,Saint Mary’s Clinic
+PID1001,Osteogenesis Imperfecta,52,GG,General Hospital
+PID1002,Huntington's disease,74,,General Hospital
+PID1003,Duchenne muscular dystrophy,44,AA,Saint Mary’s Clinic
+PID1004,Gorlin syndrome,64,AA,Saint Mary’s Clinic
+PID1005,Undiagnosed,61,AG,General Hospital
+PID1006,Osteogenesis Imperfecta,48,AG,City Medical Centre
+PID1007,Undiagnosed,88,AA,Saint Mary’s Clinic
+PID1008,Undiagnosed,77,,General Hospital
+PID1009,Gorlin syndrome,16,AA,Saint Mary’s Clinic
+PID1010,Huntingtonn’s disease,12,,City Medical Centre
+PID1011,Gorlin syndrome,88,AA,City Medical Centre
+PID1012,Marfan syndrome,60,AG,Saint Mary’s Clinic
+PID1013,Duchenne muscular dystrophy,29,GG,City Medical Centre
+PID1014,Undiagnosed,11,AA,General Hospital

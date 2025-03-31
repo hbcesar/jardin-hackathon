@@ -1,0 +1,17 @@
+Exported from Hospital System XYZ; Date: 2025-03-13
+Patient ID	Diagnosis	Year of Birth	Genotype	Hospital
+2000		1995		General Hospital
+2001		1968	GG	Saint Mary’s Clinic
+2002	2135	1976		Saint Mary’s Clinic
+2003		1968	GG	General Hospital
+2004		1990		City Medical Centre
+2005	216796	1957		City Medical Centre
+2006	558	1943	AA	General Hospital
+2007	2135	1985	GG	City Medical Centre
+2008	558	1983	AA	Saint Mary’s Clinic
+2009		1943		General Hospital
+2010		1972	AG	City Medical Centre
+2011	2135	1995		General Hospital
+2012		1954		General Hospital
+2013	558	2004	AA	City Medical Centre
+2014	216796	1991	AG	General Hospital

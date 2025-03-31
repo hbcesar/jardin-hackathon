@@ -1,0 +1,18 @@
+Patient ID;Diagnosis;Date of Birth;Genotype;Hospital
+c1316d46-0917-4a07-8616-d4c77c728bbc;;1993-02-02;AA;General Hospital
+734a6b9e-f869-446c-8423-e169039d1e0b;;2014-08-18;;General Hospital
+64af0d0a-591f-44c9-acb4-7db963bd1ba7;759.89;1939-08-31;GG;General Hospital
+040f073e-7565-4b13-b885-a93d0d442f11;;1967-11-07;AG;Saint Mary’s Clinic
+2dad8053-59ee-4335-840e-7a3e33a15a8d;756.83;1974-11-18;AG;Saint Mary’s Clinic
+5dd814d2-529b-46ec-9aa3-a2c2f486c402;;2021-03-29;AG;Saint Mary’s Clinic
+41b061cc-0e18-4cdf-9345-4149669e096a;759.82;1982-06-05;AG;Saint Mary’s Clinic
+a6cb7233-deec-4d91-bf96-cd76803e8dc8;759.82;2004-02-04;AG;City Medical Centre
+cb060edc-941c-4687-9100-69401f828fd0;759.82;1987-06-10;AA;General Hospital
+35d5fd9d-3533-4ad6-9f41-c887c12ca6e7;;1971-02-27;AA;General Hospital
+cf129499-10d6-4f61-af23-5d3bed1ca553;756.83;1961-05-25;AA;General Hospital
+1630ca5e-71ab-4ec4-b966-2952c6b7aca4;759.82;1981-09-14;GG;General Hospital
+58378b06-a5c4-4413-8d02-3a5ace979d7d;759.89;1946-09-06;AG;Saint Mary’s Clinic
+ba90612d-98d4-416f-91be-eab882497176;759.89;1948-01-12;GG;Saint Mary’s Clinic
+bf0663cd-70c3-4ce4-8fe7-b65252c5db54;759.89;1971-11-12;;General Hospital
+bf0665cd-70c3-4ce8-8fe7-b65252c5db56;759.89;2014-29-01;AA;General Hospital
+5dd813d2-529b-46ec-9aa3-a3c2f486c402;59.89;1956-20-02;AG;General Hospital
